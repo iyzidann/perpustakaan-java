@@ -2,12 +2,12 @@
 
 Contoh sederhana penerapan **Object-Oriented Programming (OOP)** menggunakan Java dalam sistem peminjaman barang perpustakaan.
 
-## 🎯 Fitur
+## Fitur
 - Peminjaman dan pengembalian barang (buku, majalah)
 - Pengguna dari dua jenis: Mahasiswa dan Dosen
 - Relasi antar objek melalui Transaksi
 
-## 🔍 Konsep OOP yang Diterapkan
+## Konsep OOP yang Diterapkan
 
 ### 1. **Encapsulation**
 - Atribut class dibuat `private` atau `protected`
